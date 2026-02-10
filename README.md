@@ -1,5 +1,10 @@
 # Face Recognition PCA
 
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](tests/)
+[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
+
 Ce projet implémente un système de reconnaissance faciale basé sur l'Analyse en Composantes Principales (PCA), utilisant la méthode des "Eigenfaces".
 
 ## Fonctionnalités
